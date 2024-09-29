@@ -1,0 +1,3 @@
+cd Do_an_web_python
+cd Do_an_python
+python manage.py runserver
